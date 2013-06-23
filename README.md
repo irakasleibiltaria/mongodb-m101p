@@ -18,18 +18,16 @@ $ mongod
 client:
 $ mongo
 ```
-bottle:
-http://bottlepy.org/docs/dev/
-```bash
-$ sudo apt-get install python-bottle
-```
-
 python:
 ```bash
 $ sudo apt-get install python-pip python-dev build-essential 
 $ sudo pip install --upgrade pip 
 ```
-
+bottle:
+http://bottlepy.org/docs/dev/
+```bash
+$ sudo apt-get install python-bottle
+```
 pymongo (+ bson):
 ```bash
 $ sudo pip install bson
