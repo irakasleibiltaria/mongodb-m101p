@@ -7,6 +7,7 @@ https://education.10gen.com/courses/10gen/M101P/2013_June/about
 
 http://www.mongodb.org/
 
+mongo:
 ```bash
 Install mongoDB:
 $ sudo apt-get install mongodb-10gen
@@ -17,4 +18,26 @@ $ mongod
 client:
 $ mongo
 ```
+bottle:
+http://bottlepy.org/docs/dev/
+```bash
+Install bottle:
+$ sudo apt-get install python-bottle
+```
+
+python:
+```bash
+$ sudo apt-get install python-pip python-dev build-essential 
+$ sudo pip install --upgrade pip 
+```
+
+pymongo:
+```bash
+Install bottle:
+$ sudo apt-get install python-pymongo
+Or
+$ pip install pymongo
+```
+
+
 
