@@ -21,7 +21,6 @@ $ mongo
 bottle:
 http://bottlepy.org/docs/dev/
 ```bash
-Install bottle:
 $ sudo apt-get install python-bottle
 ```
 
@@ -31,9 +30,8 @@ $ sudo apt-get install python-pip python-dev build-essential
 $ sudo pip install --upgrade pip 
 ```
 
-pymongo:
+pymongo (+ bson):
 ```bash
-Install pymongo:
 $ sudo pip install bson
 $ sudo pip install pymongo
 ```
