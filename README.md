@@ -33,10 +33,9 @@ $ sudo pip install --upgrade pip
 
 pymongo:
 ```bash
-Install bottle:
-$ sudo apt-get install python-pymongo
-Or
-$ pip install pymongo
+Install pymongo:
+$ sudo pip install bson
+$ sudo pip install pymongo
 ```
 
 
