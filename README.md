@@ -18,19 +18,18 @@ $ mongod
 client:
 $ mongo
 ```
-bottle:
-http://bottlepy.org/docs/dev/
-```bash
-$ sudo apt-get install python-bottle
-```
-
 python:
 ```bash
 $ sudo apt-get install python-pip python-dev build-essential 
 $ sudo pip install --upgrade pip 
 ```
-
-pymongo (+ bson):
+bottle:
+http://bottlepy.org/docs/dev/
+```bash
+$ sudo apt-get install python-bottle
+```
+pymongo (+ bson): 
+NOTE: the order is important. First install bson and then pymongo. If you have  installed  previously pymongo, use $ sudo pip uninstall 
 ```bash
 $ sudo pip install bson
 $ sudo pip install pymongo
