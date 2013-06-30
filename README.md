@@ -18,7 +18,7 @@ $ mongod
 client:
 $ mongo
 ```
-python:
+python: http://docs.python.org/
 ```bash
 $ sudo apt-get install python-pip python-dev build-essential 
 $ sudo pip install --upgrade pip 
