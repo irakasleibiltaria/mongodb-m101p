@@ -17,6 +17,9 @@ $ mongod
 
 client:
 $ mongo
+
+> show dbs 
+
 ```
 python: http://docs.python.org/
 ```bash
