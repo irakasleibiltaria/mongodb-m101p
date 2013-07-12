@@ -18,8 +18,8 @@ $ mongod
 client:
 $ mongo
 
-> show dbs 
-
+> help
+...
 ```
 python: http://docs.python.org/
 ```bash
