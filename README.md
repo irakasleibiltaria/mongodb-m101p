@@ -7,6 +7,11 @@ https://education.10gen.com/courses/10gen/M101P/2013_June/about
 
 http://www.mongodb.org/
 
+http://api.mongodb.org/python/current/
+
+http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/
+
+
 mongo:
 ```bash
 Install mongoDB:
